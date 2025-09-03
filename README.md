@@ -1,2 +1,2 @@
-# LUCKY-DATA
-Data Repository For LUCKY-XD 
+# MASKY-DATA
+Data Repository For MASKY-XD 
